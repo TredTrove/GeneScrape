@@ -1,0 +1,19 @@
+{
+  "name": "genescraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TredTrove/GeneScrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TredTrove/GeneScrape/issues"
+  },
+  "homepage": "https://github.com/TredTrove/GeneScrape#readme"
+}
